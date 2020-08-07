@@ -58,6 +58,7 @@ body {
 
 .card {
   background-color: grey;
+  font-size: 24px;
 }
 
 .collapsible {
