@@ -1,5 +1,10 @@
 p {
   color: orange;
+  margin: 8px;
+}
+
+li {
+  margin: 8px;
 }
 
 body {
@@ -14,4 +19,8 @@ h3 {
 img {
   max-width: 1000px;
   height: auto;
+}
+
+.projects {
+  float: left;
 }
