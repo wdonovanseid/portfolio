@@ -37,3 +37,8 @@ img {
   text-align: center;
   color: orange;
 }
+
+.sad {
+  font-weight: 900;
+  color: red;
+}
