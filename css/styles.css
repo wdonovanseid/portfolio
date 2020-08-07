@@ -23,4 +23,10 @@ img {
 
 .projects {
   float: left;
+  width: 20%;
+  padding: 20px;
+  border: solid blue;
+  border-width: 20px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
