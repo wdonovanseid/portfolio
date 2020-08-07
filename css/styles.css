@@ -1,8 +1,17 @@
 p {
-  font-family: Times;
   color: orange;
 }
 
 body {
   background-color: black;
+  font-family: Times;
+}
+
+h3 {
+  color: white;
+}
+
+img {
+  max-width: 1000px;
+  height: auto;
 }
