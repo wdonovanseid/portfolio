@@ -58,7 +58,9 @@ body {
 }
 
 .collapsible {
-  padding: 18px;
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
   width: 100%;
   border: none;
   text-align: left;
@@ -71,7 +73,6 @@ body {
 }
 
 .content {
-  padding: 0 18px;
   display: none;
   overflow: hidden;
   background-color: grey;
