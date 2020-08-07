@@ -43,7 +43,10 @@ body {
 }
 
 .jumbotron {
-  background-color: grey;
+  background-image: url(https://cdn.wallpaperhub.app/cloudcache/e/a/c/6/2/c/eac62c76e02cc1bc98cc85390fafb59318727394.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   text-align: center;
   color: white;
 }
