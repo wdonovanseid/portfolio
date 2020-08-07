@@ -31,3 +31,9 @@ img {
   margin-bottom: 10px;
   box-sizing: border-box;
 }
+
+.jumbotron {
+  background-color: grey;
+  text-align: center;
+  color: orange;
+}
