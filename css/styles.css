@@ -21,10 +21,15 @@ body {
   text-align: center;
 }
 
-img {
-  max-width: 500px;
+#imgme1 {
+  max-width: 35%;
   height: auto;
   float: right;
+}
+
+#imgme2 {
+  max-width: 43%;
+  height: auto;
 }
 
 .projects {
