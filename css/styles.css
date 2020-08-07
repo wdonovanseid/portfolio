@@ -22,13 +22,13 @@ body {
 }
 
 #imgme1 {
-  max-width: 35%;
+  max-width: 45%;
   height: auto;
   float: right;
 }
 
 #imgme2 {
-  max-width: 43%;
+  max-width: 55%;
   height: auto;
 }
 
@@ -59,6 +59,7 @@ body {
 .card {
   background-color: grey;
   font-size: 24px;
+  margin-bottom: 10px;
 }
 
 .collapsible {
