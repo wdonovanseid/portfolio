@@ -17,8 +17,9 @@ h3 {
 }
 
 img {
-  max-width: 1000px;
+  max-width: 500px;
   height: auto;
+  float: right;
 }
 
 .projects {
