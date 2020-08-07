@@ -12,7 +12,7 @@ body {
   font-family: Times;
 }
 
-h3 {
+.sectionhead {
   color: white;
 }
 
@@ -35,7 +35,7 @@ img {
 .jumbotron {
   background-color: grey;
   text-align: center;
-  color: orange;
+  color: white;
 }
 
 .sad {
