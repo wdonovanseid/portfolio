@@ -1,13 +1,38 @@
+.navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
 li {
   color: rgba(238, 164, 5, 0.884);
+  margin: 8px;
 }
 
 p {
   color: orange;
-  margin: 8px;
-}
-
-li {
   margin: 8px;
 }
 
