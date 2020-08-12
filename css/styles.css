@@ -22,7 +22,7 @@
   background-color: #111;
 }
 
-.active {
+.activeNav {
   background-color: #4CAF50;
 }
 
@@ -99,7 +99,7 @@ body {
   font-size: 15px;
 }
 
-.active, .collapsible:hover {
+.activeCol, .collapsible:hover {
   background-color: #ccc;
 }
 
