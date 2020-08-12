@@ -15,7 +15,7 @@ _https://wdonovanseid.github.io/portfolio/
 ## Setup/Installation Requirements
 
 * _Copy Repository_
-* _Run index.html_
+* _Open index.html in your web browser_
 
 ## Known Bugs
 
